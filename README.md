@@ -1,4 +1,4 @@
-# Physics Informed State Estimation
+# Physics Informed Deep Learning
 
 Train a neural network with the knowledge of physics (prior) to estimate the traffic state. The figure below illustrates the difference with a similarly configured neural network without the prior.
 
