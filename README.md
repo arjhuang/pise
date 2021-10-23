@@ -1,6 +1,6 @@
 # Physics Informed DL for State Estimation
 
-Train a neural network with the knowledge of physics (prior) to estimate the traffic state. The figure below illustrates the difference with a similarly configured neural network without the prior.
+Train a neural network with the knowledge of physics (prior) to estimate the state. The figure below illustrates the difference with a similarly configured neural network without the prior.
 
 ![alt text](https://github.com/Jihenghuang/pise/blob/main/fixed_1000.jpg)
 
