@@ -152,7 +152,7 @@ class NN:
                                                                            'maxfun': 10000,
                                                                            'maxcor': 50,
                                                                            'maxls': 20,
-                                                                           'ftol' : 2.220446049250313e-09})
+                                                                           'ftol' : 1.0 * np.finfo(float).eps})
 
         init = tf.global_variables_initializer()
         self.sess.run(init)
