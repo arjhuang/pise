@@ -99,6 +99,7 @@ class PhysicsInformedNN:
         u = self.net_u(x,t)
         u_t = tf.gradients(u, t)[0]
         u_x = tf.gradients(u, x)[0]
+        # params - v_f = 25m/s, rho_m = 0.15 veh/m
         f = 0.15 * u_x - 0.012 * u * u_x - 0.006 * u_t
         return f
 
