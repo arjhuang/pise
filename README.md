@@ -10,7 +10,7 @@ Data in this repo -
 
   - A. J. Huang and S. Agarwal, ["Physics Informed Deep Learning for Traffic State Estimation"](https://ieeexplore.ieee.org/document/9294236) 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020, pp. 1-6
 
-### Citation
+### Citations
 
     @ARTICLE{huang2022physics,
       author={Huang, Archie J. and Agarwal, Shaurya},
