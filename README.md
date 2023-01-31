@@ -1,4 +1,5 @@
-# **P**hysics **I**nformed deep learning for traffic **S**tate **E**stimation (PISE)
+# PISE
+**P**hysics **I**nformed deep learning for traffic **S**tate **E**stimation 
 
 Data in this repo -     
 1. Synthetic.mat - case study I - simulated traffic state dataset    
